@@ -1,0 +1,10 @@
+body {
+    background-image: "backgorund.jpeg";
+}
+
+canvas {
+    animation-name: example;
+    animation-duration: 4s;
+    animation-iteration-count: infinite;
+    border-style: ridge;
+}
